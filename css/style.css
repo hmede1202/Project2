@@ -6,19 +6,19 @@ body {font-family: arial;}
   text-align: left
   }
   
-#horz1 ul {
+nav#horz1 ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden
   }
   
-#horz1 ul li {
+nav#horz1 ul li {
   float: left;
   margin: 0 15px;
   }
 
-#horz1 ul li a {  
+nav#horz1 ul li a {  
   display: block;
   background-color: rgb(7, 83, 159);
   color: #fff;
@@ -30,7 +30,7 @@ body {font-family: arial;}
   border-radius: 4px;
   }
 
-#horz1 ul li a:hover {  
+nav#horz1 ul li a:hover {  
   background-color: rgb(54, 150, 247)
   color: rgb(215, 221, 227)
   border-radius: 20px;
