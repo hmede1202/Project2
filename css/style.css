@@ -31,3 +31,24 @@ nav#horz1 ul li a:hover {
   text-decoration: underline;
   color: #000;
   }
+  
+#info ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden
+  }
+  
+#info ul li {
+  float: left;
+  margin: 0 25px;
+  }
+
+#info ul li a {  
+  display: block;
+  font-weight:bold;
+  text-decoration: none;
+  text-align: center;
+  width: 100px;
+  padding: 10px 0px 8px 0px;
+  }
