@@ -48,22 +48,30 @@ nav#info ul li {
   margin: 0 25px;
   }
 
-
 ul.special_bullet li:before {
   color: rgb(7, 83, 159);
   content: "\27bd \0020";
   }
   
-div#main {
-  width: 70%;
-  margin-right: 5%;
+#main {
+  width: 60%;
+  margin: 0 5%;
   float: left;
   background: white;
   }
   
-div#extras {
+#extras {
   width: 25%;
   float: left;
+  margin: 0 5% 0 0 ;
   background: white;
+  }
+  
+#style {
+  width:60%;
+  height: 30px;
+  text-align:left;
+  margin-left:0;
+  background-color: rgb(208, 226, 245);
   }
   
