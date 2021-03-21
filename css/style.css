@@ -31,6 +31,10 @@ nav#horz1 ul li a:hover {
   text-decoration: underline;
   color: #000;
   }
+
+#pinfo {
+  color: rgb(7, 83, 159)
+  }
   
 #info ul {
   list-style-type: none;
