@@ -48,9 +48,12 @@ nav#info ul li {
   margin: 0 25px;
   }
   
-#navlist li {
-  padding-left: 10px;
-  background-image: url(images/arrow.gif);
-  background-repeat: no-repeat;
-  background-position: 0 .5em;
+#list { 
+  color: rgb(208, 226, 245); 
+  background: white; 
+  font-size: 20px;
   }
+  
+li { 
+  list-style: none; 
+  } 
