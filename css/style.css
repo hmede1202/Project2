@@ -47,4 +47,9 @@ nav#info ul li {
   float: left;
   margin: 0 25px;
   }
-  
+
+
+ul.special_bullet li:before {
+  color: rgb(7, 83, 159);
+  content: "\27bd \0020";
+  }
