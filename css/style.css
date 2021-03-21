@@ -1,5 +1,11 @@
 body {font-family: arial;}
 
+nav#horz1 #onpage {
+  background-color: rgb(208, 226, 245);
+  border-radius: 15px;
+  color: #000;
+  }
+
 nav#horz1 ul {
   list-style-type: none;
   padding: 0;
