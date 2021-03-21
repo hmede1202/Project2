@@ -109,7 +109,7 @@ ul.special_bullet li:before {
 #style-short {
   width:25%;
   height: 3px;
-  text-align:left;
+  text-align:right;
   margin-left:0;
   background-color: rgb(7, 83, 159);
   }
