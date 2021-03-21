@@ -47,6 +47,7 @@ nav#horz1 ul li a:hover {
 #info ul li a {  
   display: block;
   font-weight:bold;
+  color: rgb(7, 83, 159)
   text-decoration: none;
   text-align: center;
   width: 100px;
