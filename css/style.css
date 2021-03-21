@@ -48,12 +48,6 @@ nav#info ul li {
   margin: 0 25px;
   }
   
-#navlist {
-  margin-left: 0;
-  padding-left: 0;
-  list-style: none;
-  }
-
 #navlist li {
   padding-left: 10px;
   background-image: url(images/arrow.gif);
