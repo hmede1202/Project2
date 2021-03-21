@@ -5,6 +5,10 @@ body {font-family: arial;}
   background: url(images/bar-bg.jpg) repeat-x;
   }
 
+#header {
+  text-align: center;
+  }
+  
 .table {
   display: table;   
   margin: 0 auto;
