@@ -14,35 +14,35 @@ body {font-family: arial;}
   margin: 0 auto;
   }
 
-ul#horizontal-list {
+#horizontal-list {
   min-width: 300px;
   list-style: none;
   padding-top: 20px;
   }
 
-ul#horizontal-list li {
+#horizontal-list li {
   display: inline;
   }
   
-nav#horz1 #onpage {
+#horz1 #onpage {
   background-color: rgb(208, 226, 245);
   border-radius: 15px;
   color: #000;
   }
 
-nav#horz1 ul {
+#horz1 ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden
   }
   
-nav#horz1 ul li {
+#horz1 ul li {
   float: left;
   margin: 0 25px;
   }
 
-nav#horz1 ul li a {  
+#horz1 ul li a {  
   display: block;
   background-color: rgb(7, 83, 159);
   color: #fff;
@@ -54,7 +54,7 @@ nav#horz1 ul li a {
   border-radius: 4px;
   }
 
-nav#horz1 ul li a:hover {  
+#horz1 ul li a:hover {  
   background-color: rgb(208, 226, 245);
   border-radius: 15px;
   text-transform: uppercase;
@@ -71,14 +71,14 @@ nav#horz1 ul li a:hover {
   text-align: center;
   }
   
-nav#info ul {
+#info ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden
   }
   
-nav#info ul li {
+#info ul li {
   margin: 0 25px;
   }
 
