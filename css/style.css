@@ -60,19 +60,6 @@ nav#horz1 ul li a:hover {
 
 #name {
   font-size: 2em;
-  height: 20px;
-  background: url(images/bar-bg.jpg) repeat-x;
-  }
-  
-.table2 {
-  display: table;   
-  margin: 0 auto;
-  }
-  
-#horizontal-list2 {
-  min-width: 800px;
-  list-style: none;
-  padding-top: 5px;
   }
   
 #pinfo {
