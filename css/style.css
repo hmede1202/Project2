@@ -58,8 +58,14 @@ nav#horz1 ul li a:hover {
   color: #000;
   }
 
+.small {
+  font-size: 2em;
+  text-align: center;
+  }
+  
 #pinfo {
   color: rgb(7, 83, 159)
+  text-align: center;
   }
   
 nav#info ul {
