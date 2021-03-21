@@ -15,7 +15,7 @@ body {font-family: arial;}
   }
 
 ul#horizontal-list {
-  min-width: 900px;
+  min-width: 300px;
   list-style: none;
   padding-top: 20px;
   }
