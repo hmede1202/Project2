@@ -48,12 +48,6 @@ nav#info ul li {
   margin: 0 25px;
   }
 
-.list{
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-
 .star{
   background: url('img/star.png') no-repeat left top;
   height: 34px;
@@ -61,4 +55,3 @@ nav#info ul li {
   padding-left: 44px;
   color: rgb(7, 83, 159)
 }
-≈
