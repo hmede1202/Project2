@@ -25,7 +25,8 @@ nav#horz1 ul li a {
   }
 
 nav#horz1 ul li a:hover {  
-  background-color: rgb(215, 221, 227)
+  background-color: rgb(215, 221, 227);
   border-radius: 15px;
   text-transform: uppercase;
+  text-decoration: underline;
   }
