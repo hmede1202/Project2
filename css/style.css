@@ -99,10 +99,17 @@ ul.special_bullet li:before {
   }
   
 #style {
-  width:90%;
+  width:69%;
   height: 3px;
   text-align:left;
   margin-left:0;
   background-color: rgb(7, 83, 159);
   }
   
+#style-short {
+  width:25%;
+  height: 3px;
+  text-align:left;
+  margin-left:0;
+  background-color: rgb(7, 83, 159);
+  }
