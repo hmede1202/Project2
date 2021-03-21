@@ -53,3 +53,17 @@ ul.special_bullet li:before {
   color: rgb(7, 83, 159);
   content: "\27bd \0020";
   }
+  
+div#main {
+  width: 70%;
+  margin-right: 5%;
+  float: left;
+  background: white;
+  }
+  
+div#extras {
+  width: 25%;
+  float: left;
+  background: white;
+  }
+  
