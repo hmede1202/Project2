@@ -36,24 +36,15 @@ nav#horz1 ul li a:hover {
   color: rgb(7, 83, 159)
   }
   
-#info ul {
-  list-style-type: none;
+.list{
   padding: 0;
   margin: 0;
-  overflow: hidden
-  }
-  
-#info ul li {
-  float: left;
-  margin: 0 25px;
-  }
-
-#info ul li a {  
-  display: block;
-  font-weight:bold;
+  list-style-type: none;
+}
+.star{
+  background: url('img/star.png') no-repeat left top;
+  height: 34px;
+  padding-top: 7px;
+  padding-left: 44px;
   color: rgb(7, 83, 159)
-  text-decoration: none;
-  text-align: center;
-  width: 100px;
-  padding: 10px 0px 8px 0px;
-  }
+}
