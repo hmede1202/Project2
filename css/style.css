@@ -58,9 +58,16 @@ nav#horz1 ul li a:hover {
   color: #000;
   }
 
-.small {
+#name {
   font-size: 2em;
   text-align: center;
+  height: 84px;
+  background: url(images/bar-bg.jpg) repeat-x;
+  }
+  
+.table2 {
+  display: table;   
+  margin: 0 auto;
   }
   
 #pinfo {
