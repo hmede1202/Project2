@@ -70,14 +70,14 @@ nav#horz1 ul li a:hover {
   color: rgb(7, 83, 159)
   }
   
-.info ul {
+nav.info ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden
   }
   
-.info ul li {
+nav.info ul li {
   margin: 0 25px;
   }
 
