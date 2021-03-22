@@ -100,7 +100,7 @@ ul.special_bullet li:before {
   background: white;
   }
   
-#style {
+.style {
   width:60%;
   height: 3px;
   text-align:left;
