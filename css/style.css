@@ -24,25 +24,25 @@ body {font-family: arial;}
   display: inline;
   }
   
-#horz1 #onpage {
+nav#horz1 #onpage {
   background-color: rgb(208, 226, 245);
   border-radius: 15px;
   color: #000;
   }
 
-#horz1 ul {
+nav#horz1 ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden
   }
   
-#horz1 ul li {
+nav#horz1 ul li {
   float: left;
   margin: 0 25px;
   }
 
-#horz1 ul li a {  
+nav#horz1 ul li a {  
   display: block;
   background-color: rgb(7, 83, 159);
   color: #fff;
@@ -54,7 +54,7 @@ body {font-family: arial;}
   border-radius: 4px;
   }
 
-#horz1 ul li a:hover {  
+nav#horz1 ul li a:hover {  
   background-color: rgb(208, 226, 245);
   border-radius: 15px;
   text-transform: uppercase;
