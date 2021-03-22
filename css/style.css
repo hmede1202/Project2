@@ -88,7 +88,8 @@ ul.special_bullet li:before {
   }
   
 .wrapper {
- width 960px}
+ width 960px;
+ }
  
 .main {
   width: 60%;
