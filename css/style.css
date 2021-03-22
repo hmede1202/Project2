@@ -87,24 +87,24 @@ ul.special_bullet li:before {
   content: "\27bd \0020";
   }
   
-#wrapper {
+.wrapper {
  width 960px}
  
-#main {
+.main {
   width: 60%;
   margin: 0 5 0 0%;
   float: left;
   background: white;
   }
   
-#extras {
+.extras {
   width: 25%;
   float: left;
   margin: 0 5 0 5%;
   background: white;
   }
   
-#style {
+.style {
   width:60%;
   height: 3px;
   text-align:left;
