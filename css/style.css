@@ -146,7 +146,6 @@ ul.special_bullet li:before {
 #header{
     text-align:center;
     font-size: 2em;
-    background-color: rgb(7, 83, 159);
-    font: #fff;
+    color: #fff;
     padding: 10px 20px;
     }
