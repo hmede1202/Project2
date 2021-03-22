@@ -148,4 +148,5 @@ ul.special_bullet li:before {
     font-size: 2em;
     background-color: rgb(7, 83, 159);
     font: #fff;
+    padding: 10px 20px;
     }
