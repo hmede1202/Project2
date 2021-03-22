@@ -69,11 +69,12 @@ nav#horz1 ul li a:hover {
 .pinfo {
   color: rgb(7, 83, 159)
   }
-
-
+  
 ul {
-    text-align: center;
-    list-style-position: inside;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden
   }
   
 ul li {
