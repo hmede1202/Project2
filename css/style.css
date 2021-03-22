@@ -86,7 +86,7 @@ ul.special_bullet li:before {
   content: "\27bd \0020";
   }
   
-#main {
+nav#main {
   width: 60%;
   margin: 0 5 0 0%;
   float: left;
