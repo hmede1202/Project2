@@ -89,6 +89,7 @@ nav#horz1 ul li a:hover {
   
 .info ul li {
   margin: 0 25px;
+    font-size: 1em;
   }
   
 .info ul li a {
@@ -104,8 +105,7 @@ ul.special_bullet li:before {
   content: "\27bd \0020";
   }
   
-li {
-  font-size: 1em;}
+
   
 .wrapper {
  width: 960px;
