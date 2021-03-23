@@ -190,7 +190,7 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 50px;
-  shape-outside: circle();
+  shape-outside: circle;
   }
   
 .circle.circle2 {
@@ -207,7 +207,7 @@ ul.special_bullet li:before {
   float: none;
   border-radius: 50%;
   margin: 20px;
-  shape-outside: circle();
+  shape-outside: circle;
   }
 
 .circle.circle4 {
@@ -216,7 +216,7 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 50px;
-  shape-outside: circle();
+  shape-outside: circle;
   }
   
 .circle.circle5 {
@@ -225,9 +225,21 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 20px;
-  shape-outside: circle();
+  shape-outside: circle;
   } 
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  }
+  
 .section {
   position: relative;
   width: 100%;
@@ -258,4 +270,7 @@ ul.special_bullet li:before {
   border-radius: 50%;
   margin: 20px
   }
+  
+
+
   
