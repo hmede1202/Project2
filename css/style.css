@@ -217,7 +217,7 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 50px;
-  shape-outside: circle();
+  shape-outside: circle(15em at 10% 40%) padding-box;
   }
   
 .circle.circle5 {
