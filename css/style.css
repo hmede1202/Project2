@@ -219,7 +219,7 @@ ul.special_bullet li:before {
   margin: 20px;
   shape-outside: circle ();
   }
-
+  
 .column {
   float: left;
   width: 33.33%;
