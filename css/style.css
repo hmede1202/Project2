@@ -126,14 +126,14 @@ ul.special_bullet li:before {
   margin-bottom: 1em;
   }
   
-#links {
+.links {
   float: left;
   width: 22.5%;
   margin: 0 0 0 2.5%;
   outline: 2px dashed #dd0009;
   }
   
-#main-hobbies {
+.main-hobbies {
   float: left;
   width: 45%;
   margin: 0 2.5%;
@@ -141,7 +141,7 @@ ul.special_bullet li:before {
   outline: 2px dashed #0053ae;
   }
   
-#news {
+.news {
   float: left;
   width: 22.5%;
   margin: 0 2.5% 0 0;
