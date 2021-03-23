@@ -105,7 +105,9 @@ ul.special_bullet li:before {
   content: "\27bd \0020";
   }
   
-
+ul li {
+ font-size: 15px;
+}
   
 .wrapper {
  width: 960px;
