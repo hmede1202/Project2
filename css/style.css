@@ -190,7 +190,7 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 50px;
-  shape-outside: circle();
+  shape-outside;
   }
   
 .circle.circle2 {
@@ -199,32 +199,8 @@ ul.special_bullet li:before {
   float: right;
   border-radius: 50%;
   margin: 50px;
-  shape-outside: circle;
-  }
-
-.circle.circle3 {
-  width: 300px;
-  height: 300px;
-  float: none;
-  border-radius: 50%;
-  margin: 20px;
   shape-outside;
   }
-
-.circle.circle4 {
-  width: 300px;
-  height: 300px;
-  float: left;
-  border-radius: 50%;
-  margin: 50px;
-  }
-  
-.circle.circle5 {
-  width: 45px;
-  height: 45px;
-  float: right;
-  margin: 20px;
-  } 
 
 .column {
   float: left;
