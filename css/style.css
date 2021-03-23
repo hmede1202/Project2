@@ -124,8 +124,8 @@ ul.special_bullet li:before {
   background-color: rgb(7, 83, 159);
   }
   
-#style-short {
-  width:40%;
+#style-long {
+  width:500%;
   height: 3px;
   text-align:right;
   margin-left:0;
@@ -185,8 +185,8 @@ ul.special_bullet li:before {
   }  
 
 .circle.circle1 {
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   float: left;
   border-radius: 50%;
   margin: 50px;
@@ -194,16 +194,16 @@ ul.special_bullet li:before {
   }
   
 .circle.circle2 {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   float: right;
   border-radius: 50%;
   margin: 20px;
   }
 
 .circle.circle3 {
-  width: 200px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
   float: center;
   border-radius: 50%;
   margin: 20px;
