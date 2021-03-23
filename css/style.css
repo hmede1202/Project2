@@ -221,12 +221,10 @@ ul.special_bullet li:before {
   }
   
 .circle.circle5 {
-  width: 300px;
-  height: 300px;
-  float: left;
-  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  float: right;
   margin: 20px;
-  shape-outside: circle ();
   } 
 
 .column {
