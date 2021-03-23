@@ -103,11 +103,6 @@ ul.special_bullet li:before {
   content: "\27bd \0020";
   }
   
-  
-.wrapper {
- width: 960px;
- }
- 
 .main {
   width: 50%;
   margin: 5% 5%;
@@ -150,20 +145,6 @@ ul.special_bullet li:before {
   outline: 2px dashed #dd0009;
   }
   
-.main-hobbies {
-  float: left;
-  width: 45%;
-  margin: 0 2.5%;
-  font-size: 1em;
-  outline: 2px dashed #0053ae;
-  }
-  
-.news {
-  float: left;
-  width: 22.5%;
-  margin: 0 2.5% 0 0;
-  outline: 2px dashed #0053ae;
-  }
   
 .header {
   text-align:center;
@@ -222,9 +203,9 @@ ul.special_bullet li:before {
   }
 
 .circle.circle3 {
-  width: 300px;
+  width: 200px;
   height: 300px;
-  float: right;
+  float: center;
   border-radius: 50%;
   margin: 20px;
   shape-outside: circle(); 
