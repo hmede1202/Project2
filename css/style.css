@@ -148,7 +148,7 @@ ul.special_bullet li:before {
   outline: 2px dashed #0053ae;
   }
   
-#header{
+.header{
     text-align:center;
     font-size: 2em;
     color: #000;
