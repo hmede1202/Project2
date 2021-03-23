@@ -198,7 +198,7 @@ ul.special_bullet li:before {
   height: 500px;
   float: right;
   border-radius: 50%;
-  margin: 20px;
+  margin: 50px;
   shape-outside: circle(50%);
   }
 
