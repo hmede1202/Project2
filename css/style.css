@@ -202,6 +202,15 @@ ul.special_bullet li:before {
   shape-outside;
   }
 
+.circle.circle3 {
+  width: 300px;
+  height: 300px;
+  float: none;
+  border-radius: 50%;
+  margin: 20px;
+  shape-outside;
+  }
+
 .column {
   float: left;
   width: 33.33%;
