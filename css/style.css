@@ -137,6 +137,7 @@ ul.special_bullet li:before {
   float: left;
   width: 45%;
   margin: 0 2.5%;
+  font-size: 1em;
   outline: 2px dashed #0053ae;
   }
   
