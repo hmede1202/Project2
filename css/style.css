@@ -92,17 +92,15 @@ ul.special_bullet li:before {
  }
  
 .main {
-  width: 65%;
+  width: 60%;
   margin: 0% 5%;
   float: left;
-  background: white;
   }
   
 .extras {
   width: 25%;
   float: left;
   margin: 0% 5% 0% 0%;
-  background: white;
   }
   
 .style {
