@@ -190,7 +190,6 @@ ul.special_bullet li:before {
   float: left;
   border-radius: 50%;
   margin: 50px;
-  shape-outside;
   }
   
 .circle.circle2 {
@@ -198,8 +197,7 @@ ul.special_bullet li:before {
   height: 500px;
   float: right;
   border-radius: 50%;
-  margin: 50px;
-  shape-outside;
+  margin: 50px;   
   }
 
 .circle.circle3 {
@@ -208,7 +206,6 @@ ul.special_bullet li:before {
   float: none;
   border-radius: 50%;
   margin: 20px;
-  shape-outside;
   }
 
 .column {
