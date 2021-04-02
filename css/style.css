@@ -247,7 +247,8 @@ ul.special_bullet li:before {
   margin: 20px
   }
 
-#video {
+#center {
+  width: 960px;
   text-align: center;
   }
 
