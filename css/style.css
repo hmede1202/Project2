@@ -200,9 +200,13 @@ ul.special_bullet li:before {
   margin: 50px; 
   }
 
-
-  
-
+.line {
+  width:60%; 
+  height: 3px; 
+  text-align:left; 
+  margin-left:0; 
+  background-color: rgb(7, 83, 159);
+}
   
 .column {
   float: left;
